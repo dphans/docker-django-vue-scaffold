@@ -259,5 +259,6 @@ fabric.properties
 .venv/
 .idea/
 .env/
+./dist_vue/
 
 # End of https://www.gitignore.io/api/pycharm,python,django
