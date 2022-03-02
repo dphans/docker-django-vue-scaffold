@@ -7,4 +7,4 @@ djangorestframework==3.10.3
 gunicorn==19.9.0
 Markdown==3.1.1
 psycopg2-binary==2.8.3
-Scrapy==1.7.4
+Scrapy==1.8.2
